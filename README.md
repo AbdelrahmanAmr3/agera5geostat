@@ -1,4 +1,4 @@
-# agera5geostat
+# AgERA5GeoStat
 
 
 [![image](https://img.shields.io/pypi/v/agera5geostat.svg)](https://pypi.python.org/pypi/agera5geostat)
