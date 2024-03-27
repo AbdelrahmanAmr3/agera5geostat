@@ -9,4 +9,4 @@
 
 
 # 🛑 Important Notice
-It will be Published Soon.
+It will be Published Soon, you can use it as xEarthStat Workflow under EarthStat library.
